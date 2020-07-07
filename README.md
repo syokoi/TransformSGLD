@@ -12,4 +12,4 @@ Currently supports mirroring trick, Ito formula, and change-of-random-variable m
 * SpecialFunctions v0.10.3
 
 ## Usage
-See jupyter notebooks.
+See jupyter notebooks `*.ipynb`.
