@@ -6,10 +6,10 @@ Currently supports mirroring trick, Ito formula, and change-of-random-variable m
 ## Confirmed environment
 * Ubuntu 18.04.4
 * Julia v1.4.2
-* AverageShiftedHistograms v0.8.1
-* Hyperopt v0.3.3
-* Plots v1.5.2
-* SpecialFunctions v0.10.3
+  * AverageShiftedHistograms v0.8.1
+  * Hyperopt v0.3.3
+  * Plots v1.5.2
+  * SpecialFunctions v0.10.3
 
 ## Usage
 See jupyter notebooks `*.ipynb`.
